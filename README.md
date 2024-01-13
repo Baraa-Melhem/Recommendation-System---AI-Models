@@ -1,6 +1,8 @@
 # Recommendation-System---AI-Models
-My part of work on Nasa Space apps , which is creating a high accuracy AI Models that can predict the subject of the scientific text 
+My part of work on Nasa Space apps Hackathon 2023 with Sirius Team , which is creating a high accuracy AI Models that can predict the subject of the scientific text to be a part of the recommendation system in a Marketplace for Open Science Projects : 
+Our Team's project :  https://www.spaceappschallenge.org/2023/find-a-team/sirius-team/
 
+AI Models:
 we built a multi-model system that contains 4 LSTM nueral network models
 which predicts the topic of the posts to classify them into categories to make a recommendation system
 that recommend users that are interested in same categories 
